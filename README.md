@@ -1,7 +1,7 @@
 # **華瑞小篆體 / HR-smallseal**
 ### **請以正體中文使用，簡體字會有一簡對多繁的嚴重問題!!**
 
-修改自[北師大說文小篆]((https://cdp.sinica.edu.tw/hanzi/cdphanzi.htm))的字型。(未授權，我有嘗試找[北師大漢字漢語實驗室](https://hz.bnu.edu.cn/#/contactUs)要授權，卻沒有回覆(可能已無人維護)，因此我先發布了)
+修改自[北師大說文小篆](https://cdp.sinica.edu.tw/hanzi/cdphanzi.htm)的字型。(未授權，我有嘗試找[北師大漢字漢語實驗室](https://hz.bnu.edu.cn/#/contactUs)要授權，卻沒有回覆(可能已無人維護)，因此我先發布了)
 
 ### **目前狀況**
 
@@ -14,6 +14,7 @@
 ### **其他**
 
 [B站](https://www.bilibili.com/video/BV1ekvZBkEQm/)
+
 
 
 
