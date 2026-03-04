@@ -1,4 +1,5 @@
 # **華瑞小篆體 / HR-smallseal**
+<img width="1920" height="1080" alt="未命名" src="https://github.com/user-attachments/assets/367a4aa5-2a6a-47d2-9c00-7a30b78de6c5" />
 
 修改自北師大說文小篆的字型。(未授權，我有嘗試找[北師大漢字漢語實驗室](https://hz.bnu.edu.cn/#/contactUs)要授權，卻沒有回覆(可能已無人維護)，因此我先發布了)
 
@@ -15,4 +16,5 @@
 ### **其他**
 
 [B站](https://www.bilibili.com/video/BV1ekvZBkEQm/)
+
 
